@@ -1,0 +1,2 @@
+# smth
+repository for something
